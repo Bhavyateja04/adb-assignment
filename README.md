@@ -67,8 +67,8 @@ Make sure the following software is installed:
 # Clone Repository
 
 ```bash
-git clone <your-repository-url>
-cd <repository-name>
+git clone <https://github.com/Bhavyateja04/adb-assignment>
+cd <adb-assignment>
 ```
 
 ---
