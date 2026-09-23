@@ -68,6 +68,7 @@ Make sure the following software is installed:
 
 ```bash
 git clone <https://github.com/Bhavyateja04/adb-assignment>
+change the directory to the adb-assignment
 cd <adb-assignment>
 ```
 
